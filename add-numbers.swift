@@ -5,8 +5,6 @@
 //init variables/arrays
 var storageArray = [Int]()
 var finalNumber = 0
-var startingNumber = 90
-var endingNumber = 100
 var arrayOne = [Int]()
 var arrayTwo = [Int]()
 var dictionary = [Int:Int]()
