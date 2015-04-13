@@ -45,7 +45,7 @@ func calculateNumber(inputtedNumber:Int) -> Int
     return finalNumber
 }
 
-calculateNumber(5)
+
 
 
 
