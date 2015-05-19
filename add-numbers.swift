@@ -1,5 +1,5 @@
 //function to take inputted numbers and add together all numbers leading up to it
-//ex: input of 3, 1+2+3
+//ex: input 3, 1+2+3
 //return: 6
 
 //init variables/arrays
