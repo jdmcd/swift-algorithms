@@ -1,3 +1,4 @@
+//test
 //function to take inputted numbers and add together all numbers leading up to it
 //ex: input 3, 1+2+3
 //return: 6
